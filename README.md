@@ -1,2 +1,3 @@
 # myleetcodesolutions
-My answers for the tasks from https://leetcode.com project
+My implementations for the tasks from https://leetcode.com project
+Start solving once again...
