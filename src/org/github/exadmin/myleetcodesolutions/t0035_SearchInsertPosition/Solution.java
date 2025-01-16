@@ -15,6 +15,7 @@ package org.github.exadmin.myleetcodesolutions.t0035_SearchInsertPosition;
  * -104 <= target <= 104
  *
  * STATUS = DONE
+ * RESULT = 0 ms / beats 100%
  */
 class Solution {
     public int searchInsert(final int[] nums, final int targetValue) {
