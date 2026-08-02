@@ -1,4 +1,4 @@
-package org.github.exadmin.myleetcodesolutions.t0023;
+package org.github.exadmin.myleetcodesolutions.t0024_SwapPairs;
 
 class ListNode {
     int val;
